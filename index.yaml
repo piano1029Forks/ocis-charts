@@ -1,0 +1,16 @@
+# THIS IS NOT A PROPER INDEX FILE, JUST A TEMPORARY MANUALLY CREATED FILE. DO NOT USE IN PRODUCTION
+
+apiVersion: v1
+entries:
+  ocis:
+    - created: 2016-10-06T16:23:20.499814565-06:00
+      description: ocis
+      digest: cd2531e97b71e5bb689838658227f4b6520b6e952a4c04d04b4dd761e533ccf2
+      home: https://owncloud.com
+      name: alpine
+      sources:
+      - https://github.com/piano1029Forks/ocis-charts
+      urls:
+      - https://piano1029forks.github.io/ocis-charts/ocis.tgz
+      version: 0.6.0
+generated: 2016-10-06T16:23:20.499029981-06:00
